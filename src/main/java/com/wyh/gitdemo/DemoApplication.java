@@ -14,6 +14,7 @@ public class DemoApplication {
         System.out.println("hot-fix qioujiayishiwyhdrbq");
         System.out.println("push wyhyanseqioujiayi");
         System.out.println("pull wyhyansezhuoyaqi");
+        System.out.println("pull wyhyansezhuoyaqi2");
         SpringApplication.run(DemoApplication.class, args);
     }
 
