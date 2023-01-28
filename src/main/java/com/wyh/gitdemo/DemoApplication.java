@@ -11,6 +11,7 @@ public class DemoApplication {
         System.out.println("wyhganqioujiayi");
         System.out.println("wyhganzhuoyaqi");
         System.out.println("master zhuoyaqishiwyhdrbq");
+        System.out.println("hot-fix qioujiayishiwyhdrbq");
         SpringApplication.run(DemoApplication.class, args);
     }
 
