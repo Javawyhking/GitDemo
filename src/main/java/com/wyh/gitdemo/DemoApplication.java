@@ -17,6 +17,7 @@ public class DemoApplication {
         System.out.println("pull wyhyansezhuoyaqi2");
         System.out.println("push wyhyanseqioujiayi2");
         System.out.println("pull wyhyanseqioujiayi3");
+        System.out.println("pull wyhyanseqioujiayi4");
         SpringApplication.run(DemoApplication.class, args);
     }
 
